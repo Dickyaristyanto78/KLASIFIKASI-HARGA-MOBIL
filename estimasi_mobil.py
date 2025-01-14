@@ -1,5 +1,6 @@
 import pickle
 import streamlit as st
+import altair
 
 # Load model
 try:
